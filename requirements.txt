@@ -1,2 +1,4 @@
+python-dotenv
+ffmpeg-python
 highrise-bot-sdk
 yt_dlp
